@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a al curso introductorio a Next.js 15 con App Router! Durante este curso, aprenderás los fundamentos (y no tanto) de Next.js con App Router para construir una aplicación web: [Restaurancy](https://restaurancy.goncy.dev), un catálogo de restaurantes.
 
-(./images/completed.jpg)
+![](./images/completed.jpg)
 
 El diseño de este curso se plantea de manera incremental, donde cada lección se basa en la anterior. Te recomendamos seguir el orden de las lecciones para obtener el máximo beneficio.
 
